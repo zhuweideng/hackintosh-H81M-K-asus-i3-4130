@@ -39,4 +39,5 @@ Not working:
 [参考地址](https://github.com/andrie81/Asus-H81M-K-OpenCore)
 [参考地址](https://github.com/rsdev69/Asus-H81ME-I3.4130-HD4400-macOS)
 [参考地址](https://github.com/wargodz009/opencore-i5-4460-h81m-k)
+[OpenCore-Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#starting-point)
 '''
