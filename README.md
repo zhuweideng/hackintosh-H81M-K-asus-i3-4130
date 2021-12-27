@@ -5,8 +5,7 @@ ASUS H81M-K motherboard.
 VGA port don't work! To connect a monitor need DVI-D.
 ```
 
-BIOS settings:
-
+## BIOS settings:
 - CSM(Compability Support Module): Disabled
 - iGPU Memory: 96MB
 - CPU MSR Lock: Disabled
@@ -15,7 +14,6 @@ BIOS settings:
 - Fast Boot: Disabled
 - Secure Boot: Other OS
 - Intel RapidStart/SmartConnect: Disabled
-
 - Full working OpenCore with Kexts and SSDTs
 
 * OpenCore-0.5.9-RELEASE
