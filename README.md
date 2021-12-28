@@ -44,3 +44,5 @@ VGA port don't work! To connect a monitor need DVI-D.
 [GTX660（GK106核心）EFI ](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1842296)
 [黑苹果Hackintosh显卡入手指南](https://post.smzdm.com/p/az5ge680/)
 [H81M-DS2-Hackintosh ](https://github.com/dtcu0ng/H81M-DS2-Hackintosh)
+
+[installing-macos-12-monterey-on-proxmox-7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
