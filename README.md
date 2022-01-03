@@ -46,3 +46,4 @@ VGA port don't work! To connect a monitor need DVI-D.
 [H81M-DS2-Hackintosh ](https://github.com/dtcu0ng/H81M-DS2-Hackintosh)
 
 [installing-macos-12-monterey-on-proxmox-7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
+[远景H81M-ds2](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1856175&highlight=h81m-ds2)
